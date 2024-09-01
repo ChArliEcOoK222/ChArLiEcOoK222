@@ -8,5 +8,5 @@ As an individual with a profound passion for exploring the intersections between
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [charlie2007.cook@gmail.com](mailto:charlie2007.cook@gmail.com)
-* 🧠  I'm learning OpenAI
-* 🤝  I'm open to collaborating on Anything!
+* 🧠  I'm learning Computational Neuroscience
+* 🤝  I'm open to collaborating on ANYTHING!
